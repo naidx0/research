@@ -88,7 +88,7 @@ model calls (`7b28bf6`).
 
 ```
 python -m venv venv
-venv/Scripts/python -m pip install https://github.com/naidx0/four-asserts/archive/refs/heads/main.zip
+venv/Scripts/python -m pip install "four-asserts @ git+https://github.com/naidx0/research.git#subdirectory=frameworks/four-asserts"
 ```
 
 No dependencies, so nothing else is pulled in. **The tests are not part of the

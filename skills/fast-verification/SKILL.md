@@ -9,7 +9,7 @@ Goal: the same numbers as the slow check, in seconds, and a keep/reject rule no 
 has to argue about. In the project this came from, a full check went from 77 to 170 s
 to 9 s cold and 0.9 s cached, with every output field identical.
 
-Files: https://github.com/naidx0/fast-verification-kit (MIT).
+Files: https://github.com/naidx0/research/tree/main/frameworks/fast-verification-kit (MIT).
 
 ## If the slow check is a test suite: fastgate.py
 
